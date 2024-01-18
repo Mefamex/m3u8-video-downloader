@@ -1,3 +1,1 @@
-try
-None
-I will continue
+# ** LOOK MAİN FİLES **
