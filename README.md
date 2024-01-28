@@ -1,2 +1,3 @@
 # LOOK MAİN FİLES
 
+bakma
